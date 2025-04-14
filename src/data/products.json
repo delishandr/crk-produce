@@ -30,7 +30,7 @@
     "id": 4,
     "name": "Jellyberry",
     "is_goods": 0,
-    "building_id": 18,
+    "building_id": 17,
     "level": "",
     "production_time": "",
     "image_url": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/6b/Material_jellyberry.png"
@@ -39,7 +39,7 @@
     "id": 5,
     "name": "Milk",
     "is_goods": 0,
-    "building_id": 19,
+    "building_id": 18,
     "level": "",
     "production_time": "",
     "image_url": "https://static.wikia.nocookie.net/cookierunkingdom/images/5/53/Material_milk.png"
@@ -48,7 +48,7 @@
     "id": 6,
     "name": "Biscuit Flour",
     "is_goods": 0,
-    "building_id": 17,
+    "building_id": 19,
     "level": "",
     "production_time": "",
     "image_url": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/b1/Material_biscuit_flour.png"
@@ -565,5 +565,95 @@
     "level": 3,
     "production_time": 27000,
     "image_url": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/fb/Craft_bear_jelly_crown.png"
+  },
+  {
+    "id": 64,
+    "name": "Ducky Music Box",
+    "is_goods": 1,
+    "building_id": 3,
+    "level": 4,
+    "production_time": 21600,
+    "image_url": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/f9/Icon_ducky_music_box.png"
+  },
+  {
+    "id": 65,
+    "name": "Nightsky Pendant",
+    "is_goods": 1,
+    "building_id": 3,
+    "level": 4,
+    "production_time": 32400,
+    "image_url": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/e9/Icon_nightsky_pendant.png"
+  },
+  {
+    "id": 66,
+    "name": "Bejeweled Pocket Mirror",
+    "is_goods": 1,
+    "building_id": 6,
+    "level": 4,
+    "production_time": 23400,
+    "image_url": "https://static.wikia.nocookie.net/cookierunkingdom/images/1/13/Icon_bejeweled_pocket_mirror.png"
+  },
+  {
+    "id": 67,
+    "name": "Honeyed Cheese Wheel",
+    "is_goods": 1,
+    "building_id": 8,
+    "level": 3,
+    "production_time": 21600,
+    "image_url": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/ee/Icon_honeyed_cheese_wheel.png"
+  },
+  {
+    "id": 68,
+    "name": "Bittersweet Matcha Latte",
+    "is_goods": 1,
+    "building_id": 9,
+    "level": 3,
+    "production_time": 34200,
+    "image_url": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/e3/Icon_bittersweet_matcha_latte.png"
+  },
+  {
+    "id": 69,
+    "name": "Cotton Candy Lamb Toy",
+    "is_goods": 1,
+    "building_id": 10,
+    "level": 3,
+    "production_time": 32400,
+    "image_url": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/ec/Icon_cotton_candy_lamb_toy.png"
+  },
+  {
+    "id": 70,
+    "name": "",
+    "is_goods": "",
+    "building_id": "",
+    "level": "",
+    "production_time": "",
+    "image_url": ""
+  },
+  {
+    "id": 71,
+    "name": "",
+    "is_goods": "",
+    "building_id": "",
+    "level": "",
+    "production_time": "",
+    "image_url": ""
+  },
+  {
+    "id": 72,
+    "name": "",
+    "is_goods": "",
+    "building_id": "",
+    "level": "",
+    "production_time": "",
+    "image_url": ""
+  },
+  {
+    "id": 73,
+    "name": "",
+    "is_goods": "",
+    "building_id": "",
+    "level": "",
+    "production_time": "",
+    "image_url": ""
   }
 ]

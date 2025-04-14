@@ -132,7 +132,7 @@
   {
     "product_id": 23,
     "ingredient_id": 33,
-    "amount": 1
+    "amount": 2
   },
   {
     "product_id": 23,
@@ -181,8 +181,8 @@
   },
   {
     "product_id": 28,
-    "ingredient_id": 3,
-    "amount": 20
+    "ingredient_id": 18,
+    "amount": 1
   },
   {
     "product_id": 28,
@@ -246,7 +246,7 @@
   },
   {
     "product_id": 34,
-    "ingredient_id": "(candy flour)",
+    "ingredient_id": 40,
     "amount": 4
   },
   {
@@ -392,7 +392,7 @@
   {
     "product_id": 49,
     "ingredient_id": 2,
-    "amount": 22
+    "amount": 12
   },
   {
     "product_id": 49,
@@ -537,6 +537,81 @@
   {
     "product_id": 63,
     "ingredient_id": 44,
+    "amount": 1
+  },
+  {
+    "product_id": 64,
+    "ingredient_id": 51,
+    "amount": 1
+  },
+  {
+    "product_id": 64,
+    "ingredient_id": 1,
+    "amount": 50
+  },
+  {
+    "product_id": 65,
+    "ingredient_id": 60,
+    "amount": 1
+  },
+  {
+    "product_id": 65,
+    "ingredient_id": 66,
+    "amount": 1
+  },
+  {
+    "product_id": 65,
+    "ingredient_id": 62,
+    "amount": 1
+  },
+  {
+    "product_id": 66,
+    "ingredient_id": 54,
+    "amount": 1
+  },
+  {
+    "product_id": 66,
+    "ingredient_id": 6,
+    "amount": 15
+  },
+  {
+    "product_id": 67,
+    "ingredient_id": 44,
+    "amount": 1
+  },
+  {
+    "product_id": 67,
+    "ingredient_id": 5,
+    "amount": 13
+  },
+  {
+    "product_id": 68,
+    "ingredient_id": 56,
+    "amount": 1
+  },
+  {
+    "product_id": 68,
+    "ingredient_id": 64,
+    "amount": 1
+  },
+  {
+    "product_id": 68,
+    "ingredient_id": 59,
+    "amount": 1
+  },
+  {
+    "product_id": 69,
+    "ingredient_id": 19,
+    "amount": 1
+  },
+  {
+    "product_id": 69,
+    "ingredient_id": 35,
+    "amount": 1
+  },
+  {
+    "product_id": 69,
+    "ingredient_id": 57,
     "amount": 1
   }
 ]
